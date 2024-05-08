@@ -1,4 +1,0 @@
-{
-    "appService.defaultWebAppToDeploy": "undefined/subscriptions/1772411b-d9a2-4f79-b0c8-642738158f1a/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/actividad2emilio",
-    "appService.deploySubpath": "."
-}
